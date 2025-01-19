@@ -1,0 +1,23 @@
+# Written Report: School Spending Analysis 
+
+Summarization of the Analysis: 
+    The prupose of this code analyisis was to investigate the relationship between school spending, school size, and overall student performance, 
+    using data on test scores, budgets , and passing rates for math and reading.  By creating code specifically to categorize schools based on thier 
+    per- student spending and size, I identified patterns and trends in academic achievement releated to the budget of the schools.  
+
+Conclusions & Comparisions: 
+1.  Spending vs. Performance
+    Schools that had the highest spending per student ($645-680) demonstrated the best performance with aveage math scors of 82.5, reading scores of 
+    86.5, and overall passing rate of 82.5%.  Contrary schools with the lowest spending range (<$585) had significantly lower scores, with an average 
+    math scores of 75.0, and reading scores of 80.5, and an overall passing rate of 67.5%. This shows a direct correlation between spending and performance.  
+
+2. School Size vs. Performance:  
+    Smaller chools (<1000 students) had the highest performance metrics, with overall passing rate of 91%, and the highest average math and reading scores 
+    (80.0 - math, 85.0 reading).  Large schools (2000-5000 students) had the lowest performance metrics, with an overall passing rate of 75% and average 
+    math and reading scores of (76.0 - math, 79.5 - reading).  This shows that smaller schools may provide an enviorment that aligns to greater academic 
+    sucess, possibly due to factors like lower student to teach ratios or more personalized instruction.  
+
+3.  Implications: 
+    The findings of this code analysis shows the importance of funding and smaller school sizes in achieving higher academic performance, and administrators 
+    and educators should really consider analysis like this one when it comes to resources, and classroom sizes.  
+
